@@ -30,3 +30,6 @@ coverage==6.3.2
 
 # Utilities
 httpie==3.2.1
+
+# Database
+pymongo==2.3.0
